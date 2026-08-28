@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Neils",
+    "pais": "Bolivia",
+    "edad": 22,
+    "activo": true,
+    "notas": [89, 75, 90]
+  },
+  {
+    "id": 2,
+    "nombre": "Natanael",
+    "pais": "Argentina",
+    "edad": 19,
+    "activo": true,
+    "notas": [78, 70, 65]
+  },
+  {
+    "id": 3,
+    "nombre": "Felipe",
+    "pais": "Brasil",
+    "edad": 25,
+    "activo": false,
+    "notas": [40, 50, 35]
+  },
+  {
+    "id": 4,
+    "nombre": "Luciana",
+    "pais": "Bolivia",
+    "edad": 21,
+    "activo": true,
+    "notas": [95, 98, 100]
+  },
+  {
+    "id": 5,
+    "nombre": "Mateo",
+    "pais": "Chile",
+    "edad": 24,
+    "activo": true,
+    "notas": [60, 55, 70]
+  },
+  {
+    "id": 6,
+    "nombre": "Valentina",
+    "pais": "Perú",
+    "edad": 20,
+    "activo": false,
+    "notas": [85, 90, 88]
+  }
+] 
