@@ -14,7 +14,7 @@ app.use((req:Request, res:Response, next:NextFunction) => {
     console.log(`[${timesTamp}] ${req.method} / ${req.url}`);
     next();
 })
-
+//objetos
 interface Estudiante{
     id:number; 
     nombre:string;
